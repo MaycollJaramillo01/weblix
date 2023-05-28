@@ -70,7 +70,7 @@ section:nth-child(even){
 
 /*HEADER*/
 header{
-    background-image: url('assets/banner.jpg');
+    background-image: url('./assets/banner.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
